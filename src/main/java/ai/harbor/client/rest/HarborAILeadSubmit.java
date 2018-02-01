@@ -83,7 +83,10 @@ public class HarborAILeadSubmit {
 		"\t\"Commercial_Crime\": false\n" +
 		"}";
 		
-		
+	
+		System.out.println(jsonData);
+
+	
 		String okResponse = haleyClient.postJsonData("/lead", jsonData);
 		
 		o("Server response: " + okResponse);
