@@ -94,7 +94,7 @@ public class HarborAILeadSubmit {
 		"}";
 		
 	
-		System.out.println(jsonData);
+		o(jsonData);
 
 	
 		String okResponse = haleyClient.postJsonData("/lead", jsonData);
