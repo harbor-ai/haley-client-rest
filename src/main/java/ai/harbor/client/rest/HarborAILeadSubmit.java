@@ -80,7 +80,17 @@ public class HarborAILeadSubmit {
 		"\t\"Directors_and_Officers_Liability\": false,\n" +
 		"\t\"Business_Owners_Package_Policy\": true,\n" +
 		"\t\"Workers_Compensation\": false,\n" +
-		"\t\"Commercial_Crime\": false\n" +
+		"\t\"Commercial_Crime\": false,\n" +
+		"\t\n" +
+		"\t\"YearsOwnerExperience\": \"Over 10\",\n" +
+		"\t\"SICDescription\": \"SIC Description Value\",\n" +
+		"\t\"BusinessDescription\": \"Very Prosperous Business\",\n" +
+		"\t\"AnnualPayroll\": \"$100,001 - $200,000\",\n" +
+		"\t\"BusinessLocationAddress\": \"79108A Mopac Hwy\",\n" +
+		"\t\"BusinessLocationCity\": \"AUSTIN\",\n" +
+		"\t\"BusinessLocationState\": \"TX\",\n" +
+		"\t\"BusinessLocationCounty\": \"TRAVIS\",\n" +
+		"\t\"BusinessLocationZipCode\": \"78759\"\n" +
 		"}";
 		
 	
