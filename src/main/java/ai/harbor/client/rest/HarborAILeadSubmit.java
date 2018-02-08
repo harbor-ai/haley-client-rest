@@ -45,7 +45,7 @@ public class HarborAILeadSubmit {
 		"\t\"LeadID\" : \"126473722\",\n" +
 		"\t\"LeadType\": \"Business Property/Casualty\",\n" +
 		"\t\"DateReceived\": \"01/22/2018\",\n" +
-		"\t\"TimeReceived\": \"2:50 P.M. CST\",\n" +
+		"\t\"TimeReceived\": \"14:50 CST\",\n" +
 		"\t\n" +
 		"\t\"FirstName\": \"Isaac\",\n" +
 		"\t\"LastName\": \"Allen\",\n" +
