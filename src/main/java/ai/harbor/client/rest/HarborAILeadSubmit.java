@@ -93,7 +93,10 @@ public class HarborAILeadSubmit {
 		"\t\"BusinessLocationZipCode\": \"78759\"\n" +
 		"}";
 		
-		
+	
+		o(jsonData);
+
+	
 		String okResponse = haleyClient.postJsonData("/lead", jsonData);
 		
 		o("Server response: " + okResponse);
